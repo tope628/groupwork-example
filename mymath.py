@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-def my_add():
+def myAdd():
     
 def __main__():
     print "beginning of main"
