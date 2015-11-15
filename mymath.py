@@ -10,5 +10,5 @@ def __main__():
     print "beginning of main"
     print myAdd(2, 3)
     print myMultiply(2, 3)
-
+    print myAdd(5,6)
 __main__()
